@@ -5,5 +5,5 @@
 	path = themes/universal
 	url = https://github.com/devcows/hugo-universal-theme
 [submodule "themes/simple"]
-	path = themes/simple
+	path = themes/hugo-simple-sections
 	url = https://codeberg.org/VaDeCodiNet/hugo-simple-sections
