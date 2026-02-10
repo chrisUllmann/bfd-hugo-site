@@ -8,8 +8,7 @@
 <link rel="stylesheet" href="/css/cookieconsent.css">
 
 {{ partialCached "head/css.html" . }}
-
-{{ $styles := resources.Get "css/custom.css" | css.PostCSS }}
-<link rel="stylesheet" href="{{ $styles.RelPermalink }}">
+<!-- static css to avoid aspect ratio blunders in banner -->
+<link rel="stylesheet" href="/css/custom.css">
 
 {{ partialCached "head/js.html" . }}

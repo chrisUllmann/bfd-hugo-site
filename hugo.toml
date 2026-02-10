@@ -20,3 +20,9 @@ disableKinds = ["section", "taxonomy"]
     brandColor1 = "#F17629"
     brandColor2 = "#61A2DA"
     brandColor3 = "#ffffff"
+
+[build]
+  [build.processing]
+    [build.processing.css]
+      postCSS = false
+
