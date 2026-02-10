@@ -1,0 +1,20 @@
+/* assets/css/custom.css */
+#banner.row.mt-xxl-5.pt-xxl-5.mt-2.pt-2.mb-5 {
+  position: relative;
+  overflow: hidden;
+  padding-top: 66.66% !important; /* 3:2 aspect ratio */
+  width: 100%;
+  margin-bottom: 2rem !important;
+}
+
+#banner.row.mt-xxl-5.pt-xxl-5.mt-2.pt-2.mb-5 img {
+  position: absolute !important;
+  top: 0 !important;
+  left: 0 !important;
+  width: 100% !important;
+  height: 100% !important;
+  object-fit: contain !important;
+  object-position: center !important;
+  max-height: none !important;
+  margin: 0 !important; /* Override margin: auto */
+}
