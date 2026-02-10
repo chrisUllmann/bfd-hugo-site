@@ -23,7 +23,7 @@
       {{ end }}
     </div>
   </div>
-  <script src="/js/cookieconsent.min.js"></script>
+  <script src="{{ "js/cookieconsent.min.js" | relURL }}"></script>
   <script>
     window.addEventListener("load", function () {
       window.cookieconsent.initialise({
@@ -41,7 +41,7 @@
           dismiss: "Alle akzeptieren",
           deny: "Nur notwendige",
           link: "Datenschutzerklärung",
-          href: "/pages/section4#datenschutz",
+          href: "{{ "pages/section4#datenschutz" | relURL }}",
         },
       });
     });

@@ -1,3 +1,5 @@
 # bfd-hugo-site
 
-building a samll informational site for a local party
+building a small informational site for a local party
+
+testing via GHPages hoping to not see this page as index.html anymore

@@ -1,15 +1,16 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://chrisullmann.github.io/bfd-hugo-site/'
 languageCode = 'de-de'
 title = 'Bürger für Dachau'
 theme = 'hugo-simple-sections'
+defaultContentLanguage = "de"
 
 disableKinds = ["section", "taxonomy"]
 
 [params]
   banner = "vorstand.jpg"
   email = "info@buerger-fuer-dachau.de"
-  favicon = "favicon.png"
-  logo = "BfD_logo.png"
+  favicon = "favicon.ico"
+  logo = "BfD_logo_small.png"
 
   [params.instagram]
     enabled = false
@@ -22,8 +23,9 @@ disableKinds = ["section", "taxonomy"]
     brandColor3 = "#ffffff"
 
 [build]
+  canonifyURLs = true
   [build.processing]
     [build.processing.css]
       postCSS = false
-      minifiy = false
+      minify = false
 

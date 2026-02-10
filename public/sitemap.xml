@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/pages/section1/</loc>
+    <loc>https://chrisUllmann.github.io:1313/bfd-hugo-site/pages/section1/</loc>
   </url><url>
-    <loc>http://localhost:1313/pages/section2/</loc>
+    <loc>https://chrisUllmann.github.io:1313/bfd-hugo-site/pages/section2/</loc>
   </url><url>
-    <loc>http://localhost:1313/pages/section3/</loc>
+    <loc>https://chrisUllmann.github.io:1313/bfd-hugo-site/pages/section3/</loc>
   </url><url>
-    <loc>http://localhost:1313/pages/section4/</loc>
+    <loc>https://chrisUllmann.github.io:1313/bfd-hugo-site/pages/section4/</loc>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://chrisUllmann.github.io:1313/bfd-hugo-site/</loc>
   </url>
 </urlset>
