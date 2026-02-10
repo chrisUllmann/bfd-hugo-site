@@ -25,4 +25,5 @@ disableKinds = ["section", "taxonomy"]
   [build.processing]
     [build.processing.css]
       postCSS = false
+      minifiy = false
 
