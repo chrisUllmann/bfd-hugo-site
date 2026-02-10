@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Bürger für Dachau</title>
+    <link>http://localhost:1313/pages/</link>
+    <description>Recent content in Pages on Bürger für Dachau</description>
+    <generator>Hugo</generator>
+    <language>de-de</language>
+    <atom:link href="http://localhost:1313/pages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mission</title>
+      <link>http://localhost:1313/pages/section1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pages/section1/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Vorstand</title>
+      <link>http://localhost:1313/pages/section2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pages/section2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Nachrichten</title>
+      <link>http://localhost:1313/pages/section3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pages/section3/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Impressum</title>
+      <link>http://localhost:1313/pages/section4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pages/section4/</guid>
+      <description>&lt;h1 id=&#34;impressum&#34;&gt;Impressum&lt;/h1&gt;&#xA;&lt;h2 id=&#34;anbieter&#34;&gt;Anbieter&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;em&gt;Bürger für Dachau&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;vorsitzender&#34;&gt;Vorsitzender:&lt;/h3&gt;&#xA;&lt;p&gt;**Horst Ullmann&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Gröbenrieder Str. 54&lt;/strong&gt;&#xA;&lt;strong&gt;85221 Dachau&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Tel.: 08131 -&lt;/p&gt;&#xA;&lt;p&gt;eMail: &lt;a href=&#34;mailto:vorstand@buerger-fuer-dachau.de&#34;&gt;vorstand@buerger-fuer-dachau.de&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;verantwortlich-für-den-inhalt&#34;&gt;Verantwortlich für den Inhalt&lt;/h2&gt;&#xA;&lt;p&gt;**Horst Ullmann&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Gröbenrieder Str. 54&lt;/strong&gt;&#xA;&lt;strong&gt;85221 Dachau&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Telefon: 08131 -&lt;/p&gt;&#xA;&lt;p&gt;eMail: &lt;a href=&#34;mailto:online@buerger-fuer-dachau.de&#34;&gt;online@buerger-fuer-dachau.de&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,17 @@
+{
+  "scripts": {
+    "postinstall": "./npm-postinstall.sh"
+  },
+  "name": "bfd-hugo-site",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "postcss": "^8.5.6",
+    "postcss-cli": "^11.0.1"
+  }
+}

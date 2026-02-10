@@ -1,0 +1,9 @@
+[submodule "hugo-universal-theme"]
+	path = hugo-universal-theme
+	url = https://github.com/devcows/hugo-universal-theme
+[submodule "themes/universal"]
+	path = themes/universal
+	url = https://github.com/devcows/hugo-universal-theme
+[submodule "themes/simple"]
+	path = themes/simple
+	url = https://codeberg.org/VaDeCodiNet/hugo-simple-sections

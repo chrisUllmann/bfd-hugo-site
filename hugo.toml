@@ -1,0 +1,22 @@
+baseURL = 'https://example.org/'
+languageCode = 'de-de'
+title = 'Bürger für Dachau'
+theme = 'hugo-simple-sections'
+
+disableKinds = ["section", "taxonomy"]
+
+[params]
+  banner = "vorstand.jpg"
+  email = "info@buerger-fuer-dachau.de"
+  favicon = "favicon.png"
+  logo = "BfD_logo.png"
+
+  [params.instagram]
+    enabled = false
+    tokenURL = ""
+    url = ""
+
+  [params.style]
+    brandColor1 = "#F17629"
+    brandColor2 = "#61A2DA"
+    brandColor3 = "#ffffff"
